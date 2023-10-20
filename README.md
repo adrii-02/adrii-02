@@ -1,15 +1,14 @@
+¡Hola! 👋
+¿Qué encontrarás en este portafolio? 😄
 
-Hi there 👋
-What will you find in this portfolio? 😄
+Proyectos Destacados: Explorarás una selección de proyectos que he desarrollado durante mi educación, abarcando diversas áreas como desarrollo web, programación móvil y aplicaciones de escritorio. Cada proyecto incluirá una descripción detallada, las tecnologías utilizadas y enlaces al código fuente y demostraciones en vivo (si están disponibles).
 
-Highlighted Projects: You will explore a selection of projects I have developed during my education, spanning various areas such as web development, mobile programming, and desktop applications. Each project will include a detailed description, utilized technologies, and links to the source code and live demos (if available).
+Tecnologías Dominadas: Te proporcionaré una lista exhaustiva de tecnologías y lenguajes de programación con los que estoy familiarizado y tengo experiencia. Esto incluye HTML, CSS, JavaScript, Java, C#, Python, frameworks como React y FastAPI, bases de datos relacionales y no relacionales, y herramientas de control de versiones como Git. ⚡
 
-Mastered Technologies: I will provide you with an exhaustive list of technologies and programming languages I am familiar with and have experience in. This includes HTML, CSS, JavaScript, Java, C#, Python, frameworks like React and FastAPI, relational and non-relational databases, and version control tools like Git. ⚡
+¿Por qué colaborar conmigo? 👯💬
 
-Why collaborate with me? 👯💬
+Pasión por la Programación: La programación es mi verdadera pasión, y siempre busco mejorar mis habilidades y mantenerme actualizado con las últimas tendencias y tecnologías.
 
-Passion for Programming: Programming is my true passion, and I always seek to enhance my skills and stay updated with the latest trends and technologies.
+Resolución de Problemas: Disfruto enfrentando desafíos y resolviendo problemas complejos a través de la programación. Me encanta analizar situaciones y encontrar soluciones eficientes y efectivas.
 
-Problem Solving: I enjoy tackling challenges and solving complex problems through programming. I relish analyzing situations and finding efficient and effective solutions.
-
-Teamwork: I am a good collaborator and enjoy working in teams. I believe in the significance of clear and effective communication to achieve project objectives.
+Trabajo en Equipo: Soy un buen colaborador y disfruto trabajando en equipos. Creo en la importancia de la comunicación clara y efectiva para alcanzar los objetivos del proyecto.
